@@ -2,4 +2,4 @@ This is your first step.
 
 ## Task
 
- git config -l{{execute}}
+`git config -l'`{{execute}}
